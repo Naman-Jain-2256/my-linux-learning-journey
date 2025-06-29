@@ -20,52 +20,52 @@
 
 > ✅ = Completed | 🕓 = Coming Soon
 
-### 🔧 Getting Started
+### 🔧 Linux Basics
 
-- ✅ [What is Linux?](../GettingStarted/what-is-linux.md)
-- 🕓 [What is a Shell & Terminal?](../GettingStarted/shell-vs-terminal.md)
-- 🕓 [Installing Linux (Ubuntu/Kali/WSL)](../GettingStarted/installing-linux.md)
-- 🕓 [Basic Terminal Commands](../GettingStarted/basic-commands.md)
+- ✅ [What is Linux?](../phase-1(for%20everyone)/linux-basics/what-is-linux.md)
+- ✅ [What is a Shell & Terminal?](../phase-1(for%20everyone)/linux-basics/shell-vs-terminal.md)
+- 🕓 [Installing Linux (Ubuntu/Kali/WSL)](../phase-1(for%20everyone)/linux-basics/installing-linux.md)
+- 🕓 [Basic Terminal Commands](../phase-1(for%20everyone)/linux-basics/basic-commands.md)
 
 ---
 
 ### 📂 File & Directory Operations
 
-- 🕓 [ls, cd, pwd, mkdir, rm](../FileManagement/file-directory-commands.md)
-- 🕓 [cp, mv, touch, tree](../FileManagement/more-file-commands.md)
-- 🕓 [Permissions (chmod, chown)](../FileManagement/permissions.md)
+- 🕓 [ls, cd, pwd, mkdir, rm](../phase-1(for%20everyone)/file-and-directory-operations/file-directory-commands.md)
+- 🕓 [cp, mv, touch, tree](../phase-1(for%20everyone)/file-and-directory-operations/more-file-commands.md)
+- 🕓 [Permissions (chmod, chown)](../phase-1(for%20everyone)/file-and-directory-operations/permissions.md)
 
 ---
 
 ### 🔍 Searching & Filtering
 
-- 🕓 [find, locate, which](../Search/find-locate.md)
-- 🕓 [grep, cut, sort, uniq](../Search/grep-cut-sort.md)
-- 🕓 [Pipes & Redirection](../Search/pipes-redirection.md)
+- 🕓 [find, locate, which](../phase-1(for%20everyone)/searching-and-filtering/find-locate.md)
+- 🕓 [grep, cut, sort, uniq](../phase-1(for%20everyone)/searching-and-filtering/grep-cut-sort.md)
+- 🕓 [Pipes & Redirection](../phase-1(for%20everyone)/searching-and-filtering/pipes-redirection.md)
 
 ---
 
 ### ⚙️ System & User Management
 
-- 🕓 [Users & Groups](../System/users-groups.md)
-- 🕓 [Processes & Jobs (ps, top, kill)](../System/processes.md)
-- 🕓 [System Info & Monitoring](../System/system-info.md)
+- 🕓 [Users & Groups](../phase-1(for%20everyone)/system-and-user-management/users-groups.md)
+- 🕓 [Processes & Jobs (ps, top, kill)](../phase-1(for%20everyone)/system-and-user-management/processes.md)
+- 🕓 [System Info & Monitoring](../phase-1(for%20everyone)/system-and-user-management/system-info.md)
 
 ---
 
 ### 📦 Package Management
 
-- 🕓 [apt, apt-get, dpkg](../Packages/apt-dpkg.md)
-- 🕓 [snap, flatpak (Optional)](../Packages/snap-flatpak.md)
+- 🕓 [apt, apt-get, dpkg](../phase-1(for%20everyone)/package-management/apt-dpkg.md)
+- 🕓 [snap, flatpak (Optional)](../phase-1(for%20everyone)/package-management/snap-flatpak.md)
 
 ---
 
 ### 🧪 Bash Scripting Basics
 
-- 🕓 [Hello Bash](../Scripting/hello-bash.md)
-- 🕓 [Variables & Conditionals](../Scripting/variables-if.md)
-- 🕓 [Loops & Functions](../Scripting/loops-functions.md)
-- 🕓 [Simple Bash Projects](../Scripting/bash-projects.md)
+- 🕓 [Hello Bash](../phase-1(for%20everyone)/bash-scripting-basics/hello-bash.md)
+- 🕓 [Variables & Conditionals](../phase-1(for%20everyone)/bash-scripting-basics/variables-if.md)
+- 🕓 [Loops & Functions](../phase-1(for%20everyone)/bash-scripting-basics/loops-functions.md)
+- 🕓 [Simple Bash Projects](../phase-1(for%20everyone)/bash-scripting-basics/bash-projects.md)
 
 ---
 
