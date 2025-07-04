@@ -24,8 +24,8 @@
 
 - ✅ [What is Linux?](../phase-1(for%20everyone)/linux-basics/what-is-linux.md)
 - ✅ [What is a Shell & Terminal?](../phase-1(for%20everyone)/linux-basics/shell-vs-terminal.md)
-- 🕓 [Installing Linux (Ubuntu/Kali/WSL)](../phase-1(for%20everyone)/linux-basics/installing-linux.md)
-- 🕓 [Basic Terminal Commands](../phase-1(for%20everyone)/linux-basics/basic-commands.md)
+- ✅ [Installing Linux (Ubuntu/Kali/WSL)](../phase-1(for%20everyone)/linux-basics/installing-linux.md)
+- ✅ [Basic Terminal Commands](../phase-1(for%20everyone)/linux-basics/basic-commands.md)
 
 ---
 
