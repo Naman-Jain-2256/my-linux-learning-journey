@@ -31,7 +31,7 @@
 
 ### 📂 File & Directory Operations
 
-- 🕓 [ls, cd, pwd, mkdir, rm](../phase-1(for%20everyone)/file-and-directory-operations/file-directory-commands.md)
+- ✅ [ls, cd, pwd, mkdir, rm](../phase-1(for%20everyone)/file-and-directory-operations/file-directory-commands.md)
 - 🕓 [cp, mv, touch, tree](../phase-1(for%20everyone)/file-and-directory-operations/more-file-commands.md)
 - 🕓 [Permissions (chmod, chown)](../phase-1(for%20everyone)/file-and-directory-operations/permissions.md)
 
