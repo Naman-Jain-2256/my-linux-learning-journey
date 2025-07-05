@@ -26,14 +26,21 @@
 - ✅ [What is a Shell & Terminal?](../phase-1(for%20everyone)/linux-basics/shell-vs-terminal.md)
 - ✅ [Installing Linux (Ubuntu/Kali/WSL)](../phase-1(for%20everyone)/linux-basics/installing-linux.md)
 - ✅ [Basic Terminal Commands](../phase-1(for%20everyone)/linux-basics/basic-commands.md)
+- 🆕 [Keyboard Shortcuts in Terminal](../phase-1(for%20everyone)/linux-basics/keyboard-shortcuts.md)
+- 🆕 [Command History & Tab Completion](../phase-1(for%20everyone)/linux-basics/history-tabcompletion.md)
+- 🆕 [Understanding Linux Paths](../phase-1(for%20everyone)/linux-basics/paths-in-linux.md)
+- 🆕 [Linux File Types & Extensions](../phase-1(for%20everyone)/linux-basics/file-types-and-extensions.md)
 
 ---
 
 ### 📂 File & Directory Operations
 
 - ✅ [ls, cd, pwd, mkdir, rm](../phase-1(for%20everyone)/file-and-directory-operations/file-directory-commands.md)
-- 🕓 [cp, mv, touch, tree](../phase-1(for%20everyone)/file-and-directory-operations/more-file-commands.md)
+- ✅ [cp, mv, touch, tree](../phase-1(for%20everyone)/file-and-directory-operations/more-file-commands.md)
 - 🕓 [Permissions (chmod, chown)](../phase-1(for%20everyone)/file-and-directory-operations/permissions.md)
+- 🆕 [Hidden Files and Dotfiles](../phase-1(for%20everyone)/file-and-directory-operations/hidden-files-dotfiles.md)
+- 🆕 [Linux Filesystem Overview](../phase-1(for%20everyone)/file-and-directory-operations/linux-filesystem-overview.md)
+- 🆕 [Basic Text Editing with Nano](../phase-1(for%20everyone)/file-and-directory-operations/nano-editor.md)
 
 ---
 
@@ -81,7 +88,7 @@
 ## 🔗 Continue to Phase 2 → Cybersecurity Tools
 
 > Once you're confident with the basics, move on to:  
-📁 [`Phase 2 - Linux for Cybersecurity`](../README.md#🔐-phase-2-linux-for-cybersecurity)
+📁 [`Phase 2 - Linux for Cybersecurity`](../phase-2(for%20cybersecurity%20enthusiasts)/README.md#🔐-phase-2-linux-for-cybersecurity)
 
 ---
 
