@@ -236,7 +236,7 @@ Your terminal doesn’t have to be boring — **make it powerful, make it person
 > From checking your identity to spying on your system’s brain — you’ve mastered the essentials!  
 > 
 > ### 🔜 Next Up:  
-> ➡️ **[File & Directory Commands](../file-and-directory-operations/file-directory-commands.md)** — Navigate the Linux filesystem like a pro explorer! 🧭  
+> ➡️ **[Keyboard shortcuts](../linux-basics/keyboard-shortcuts.md)** — Master some Cheat Codes to use in case of Anything goes wrong or to boost your productivity! 🧭  
 > 
 > ### 💬 Parting Advice:  
 > > "In a world full of clicks, be a command." 🧠💻
@@ -250,5 +250,5 @@ Your terminal doesn’t have to be boring — **make it powerful, make it person
 Because Linux isn’t just an OS — it’s a mindset.
 
 > 🎯 This is just the beginning! Each command is a tool in your Linux toolbox. Use them, break them, and learn from them.
-
+>
 > 🎯 Try every command in your own terminal as you go — don’t just read! Experience is the best teacher.
