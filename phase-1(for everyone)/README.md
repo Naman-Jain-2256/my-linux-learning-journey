@@ -26,7 +26,7 @@
 - ✅ [What is a Shell & Terminal?](../phase-1(for%20everyone)/linux-basics/shell-vs-terminal.md)
 - ✅ [Installing Linux (Ubuntu/Kali/WSL)](../phase-1(for%20everyone)/linux-basics/installing-linux.md)
 - ✅ [Basic Terminal Commands](../phase-1(for%20everyone)/linux-basics/basic-commands.md)
-- 🆕 [Keyboard Shortcuts in Terminal](../phase-1(for%20everyone)/linux-basics/keyboard-shortcuts.md)
+- ✅ [Keyboard Shortcuts in Terminal](../phase-1(for%20everyone)/linux-basics/keyboard-shortcuts.md)
 - 🆕 [Command History & Tab Completion](../phase-1(for%20everyone)/linux-basics/history-tabcompletion.md)
 - 🆕 [Understanding Linux Paths](../phase-1(for%20everyone)/linux-basics/paths-in-linux.md)
 - 🆕 [Linux File Types & Extensions](../phase-1(for%20everyone)/linux-basics/file-types-and-extensions.md)
