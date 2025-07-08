@@ -166,7 +166,7 @@ You can also define your own keyboard shortcuts in your terminal emulator's sett
 > From stopping runaway commands to navigating like a ninja — you’ve mastered the shortcuts!
 > 
 > ### 🔜 Next Up:  
-> ➡️ **[Command History & Tab Completion](../history-tabcompletion.md)** — Master the art of command recall and completion! 🧠
+> ➡️ **[File & Directory Commands](../file-and-directory-operations/file-directory-commands.md)** — Navigate the Linux filesystem like a pro explorer! 🧭
 >
 > > ### 💬 Parting Advice: 
 > > "In the world of Linux, shortcuts are your secret weapons." 🗡️💻
