@@ -95,7 +95,7 @@ umask 077            # Set strict permissions (only owner can read/write)
 > You now know how to read, modify, and secure your files — like a true Linux guardian. 🛡️
 >
 > ### 🔜 Next Up:
-> ➡️ **[Searching & Filtering](../searching-and-filtering/find-locate.md)** — Become a file-finding ninja! 🥷
+> ➡️ **[Hidden Files and Dotfiles](../file-and-directory-operations/nano-editor.md)** — Understand how Linux handles hidden files, why dotfiles matter, and how to manage them like a pro! 🕵️‍♂️🗂️
 > ### 💬 Parting Advice:
 > > "In Linux, permission is power. Use it wisely."
 > >
