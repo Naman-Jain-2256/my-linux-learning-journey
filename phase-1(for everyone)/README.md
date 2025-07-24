@@ -37,7 +37,7 @@
 - ✅ [Permissions (chmod, chown)](../phase-1(for%20everyone)/file-and-directory-operations/permissions.md)
 - ✅ [Hidden Files and Dotfiles](../phase-1(for%20everyone)/file-and-directory-operations/hidden-files-dotfiles.md)
 - ✅ [Linux Filesystem Overview](../phase-1(for%20everyone)/file-and-directory-operations/linux-filesystem-overview.md)
-- 🆕 [Basic Text Editing with Nano](../phase-1(for%20everyone)/file-and-directory-operations/nano-editor.md)
+- ✅ [Basic Text Editing with Nano](../phase-1(for%20everyone)/file-and-directory-operations/nano-editor.md)
 
 ---
 
