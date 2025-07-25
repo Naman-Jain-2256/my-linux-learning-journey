@@ -1,7 +1,3 @@
-
-
-
-
 # 📝 Basic Text Editing with Nano
 
 ## ✨ Welcome to the World of Nano!
@@ -100,28 +96,8 @@ nano greet.txt
 > You’ve just learned how to **create, edit, save, and exit files using Nano** — a major skill for navigating Linux like a real user!
 >
 > ### 🔜 Next Up:  
-> ➡️ **[find, locate, which](../searching-and-filtering/find-locate.md)** — Master searching for files and commands in your system! 🔍
+> ➡️ **[Searching & Filtering](../searching-and-filtering/find-locate.md)** — Become a file-finding ninja! 🥷
 >
 > > 💬 Parting Wisdom:  
 > > _“To master Linux, first learn to write inside it.”_  
 > > — Terminal Typist 🧑‍💻
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> ### 🔜 Next Up:
-> ➡️ **[Searching & Filtering](../searching-and-filtering/find-locate.md)** — Become a file-finding ninja! 🥷
