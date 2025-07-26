@@ -43,7 +43,7 @@
 
 ### 🔍 Searching & Filtering
 
-- 🕓 [find, locate, which](../phase-1(for%20everyone)/searching-and-filtering/find-locate.md)
+- ✅ [find, locate, which](../phase-1(for%20everyone)/searching-and-filtering/find-locate.md)
 - 🕓 [grep, cut, sort, uniq](../phase-1(for%20everyone)/searching-and-filtering/grep-cut-sort.md)
 - 🕓 [Pipes & Redirection](../phase-1(for%20everyone)/searching-and-filtering/pipes-redirection.md)
 
